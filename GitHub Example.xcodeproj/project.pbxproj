@@ -13,6 +13,7 @@
 		277A9506212F511D00B52F17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 277A9505212F511D00B52F17 /* Assets.xcassets */; };
 		277A9509212F511D00B52F17 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 277A9507212F511D00B52F17 /* LaunchScreen.storyboard */; };
 		277A9513212F569D00B52F17 /* programming-or-googling.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 277A9512212F569D00B52F17 /* programming-or-googling.jpg */; };
+		27E2E006212F646F007E7AD7 /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 27E2E005212F646F007E7AD7 /* readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		277A9508212F511D00B52F17 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		277A950A212F511D00B52F17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		277A9512212F569D00B52F17 /* programming-or-googling.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "programming-or-googling.jpg"; sourceTree = "<group>"; };
+		27E2E005212F646F007E7AD7 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		277A94F2212F511C00B52F17 = {
 			isa = PBXGroup;
 			children = (
+				27E2E005212F646F007E7AD7 /* readme.md */,
 				277A94FD212F511C00B52F17 /* GitHub Example */,
 				277A94FC212F511C00B52F17 /* Products */,
 			);
@@ -128,6 +131,7 @@
 				277A9509212F511D00B52F17 /* LaunchScreen.storyboard in Resources */,
 				277A9506212F511D00B52F17 /* Assets.xcassets in Resources */,
 				277A9513212F569D00B52F17 /* programming-or-googling.jpg in Resources */,
+				27E2E006212F646F007E7AD7 /* readme.md in Resources */,
 				277A9504212F511C00B52F17 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
