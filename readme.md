@@ -1,4 +1,6 @@
-# Demo readme
-Add a line
+# Project Info
+Name: 
 
-Another one
+User ID: michaelm1
+
+Date Completed: Sept 17, 2032
