@@ -12,6 +12,7 @@
 		277A9504212F511C00B52F17 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 277A9502212F511C00B52F17 /* Main.storyboard */; };
 		277A9506212F511D00B52F17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 277A9505212F511D00B52F17 /* Assets.xcassets */; };
 		277A9509212F511D00B52F17 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 277A9507212F511D00B52F17 /* LaunchScreen.storyboard */; };
+		277A9513212F569D00B52F17 /* programming-or-googling.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 277A9512212F569D00B52F17 /* programming-or-googling.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		277A9505212F511D00B52F17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		277A9508212F511D00B52F17 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		277A950A212F511D00B52F17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		277A9512212F569D00B52F17 /* programming-or-googling.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "programming-or-googling.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				277A9505212F511D00B52F17 /* Assets.xcassets */,
 				277A9507212F511D00B52F17 /* LaunchScreen.storyboard */,
 				277A950A212F511D00B52F17 /* Info.plist */,
+				277A9512212F569D00B52F17 /* programming-or-googling.jpg */,
 			);
 			path = "GitHub Example";
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			files = (
 				277A9509212F511D00B52F17 /* LaunchScreen.storyboard in Resources */,
 				277A9506212F511D00B52F17 /* Assets.xcassets in Resources */,
+				277A9513212F569D00B52F17 /* programming-or-googling.jpg in Resources */,
 				277A9504212F511C00B52F17 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
